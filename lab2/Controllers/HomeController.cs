@@ -14,7 +14,7 @@ namespace lab2.Controllers
         }
 
        
-        public IActionResult hello()
+        public IActionResult Index()
         {
             return View();
         }

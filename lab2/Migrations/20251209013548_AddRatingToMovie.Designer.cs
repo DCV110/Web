@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using lab2.Data;
 
@@ -11,9 +12,11 @@ using lab2.Data;
 namespace lab2.Migrations
 {
     [DbContext(typeof(lab2Context))]
-    partial class lab2ContextModelSnapshot : ModelSnapshot
+    [Migration("20251209013548_AddRatingToMovie")]
+    partial class AddRatingToMovie
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -37,9 +40,6 @@ namespace lab2.Migrations
                     b.Property<string>("Genre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Rating")
                         .HasColumnType("nvarchar(max)");

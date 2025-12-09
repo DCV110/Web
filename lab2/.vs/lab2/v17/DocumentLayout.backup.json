@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\data\\lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:data\\lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209015336_ChangePriceToDecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251209015336_ChangePriceToDecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209015217_ChangePriceToDecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251209015217_ChangePriceToDecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\migrations\\20251204100739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:migrations\\20251204100739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\migrations\\20251209013548_addratingtomovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:migrations\\20251209013548_addratingtomovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\data\\lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:data\\lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\migrations\\lab2contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:migrations\\lab2contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\home\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:views\\home\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75CC2EF6-0966-4F91-AB79-01E4B345C206}|lab2.csproj|c:\\users\\admin\\source\\repos\\web\\lab2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,59 +98,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lab2Context.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Data\\lab2Context.cs",
-              "RelativeDocumentMoniker": "Data\\lab2Context.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Data\\lab2Context.cs",
-              "RelativeToolTip": "Data\\lab2Context.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20251209015336_ChangePriceToDecimal.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209015336_ChangePriceToDecimal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251209015336_ChangePriceToDecimal.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209015336_ChangePriceToDecimal.cs",
+              "RelativeToolTip": "Migrations\\20251209015336_ChangePriceToDecimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T10:01:18.812Z",
+              "WhenOpened": "2025-12-09T01:53:36.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "20251209015217_ChangePriceToDecimal.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209015217_ChangePriceToDecimal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251209015217_ChangePriceToDecimal.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209015217_ChangePriceToDecimal.cs",
+              "RelativeToolTip": "Migrations\\20251209015217_ChangePriceToDecimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:52:17.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T01:48:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T09:28:59.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T09:30:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T09:19:40.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\Lab2\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\Lab2\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHEAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T09:57:32.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:19:37.756Z",
+              "WhenOpened": "2025-12-04T09:25:47.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T10:19:34.476Z",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T11:03:02.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:05:15.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20251204100739_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251204100739_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20251204100739_InitialCreate.cs",
@@ -127,20 +241,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "20251209013548_AddRatingToMovie.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209013548_AddRatingToMovie.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251209013548_AddRatingToMovie.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\20251209013548_AddRatingToMovie.cs",
+              "RelativeToolTip": "Migrations\\20251209013548_AddRatingToMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:25:47.053Z",
+              "WhenOpened": "2025-12-09T01:35:48.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:36:29.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lab2Context.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Data\\lab2Context.cs",
+              "RelativeDocumentMoniker": "Data\\lab2Context.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Data\\lab2Context.cs",
+              "RelativeToolTip": "Data\\lab2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:01:18.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:08:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:16:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T10:19:34.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "lab2ContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Migrations\\lab2ContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\lab2ContextModelSnapshot.cs",
@@ -148,12 +326,11 @@
               "RelativeToolTip": "Migrations\\lab2ContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T10:09:04.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T10:09:04.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -165,20 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "hello.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Home\\hello.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\hello.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\Home\\hello.cshtml",
-              "RelativeToolTip": "Views\\Home\\hello.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T10:15:28.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\lab2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -187,19 +351,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T10:19:10.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Web\\Lab2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Web\\Lab2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:16:07.706Z",
-              "EditorCaption": ""
             }
           ]
         }
